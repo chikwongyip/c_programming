@@ -22,6 +22,7 @@ int main()
                 break;
         }
         printf("%d,%d,%d",space,tab,line);
+
     }
 
     return 0;
