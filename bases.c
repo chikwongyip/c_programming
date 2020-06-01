@@ -1,4 +1,5 @@
 #include <stdio.h>
+//显示二进制
 int main(void)
 {
     int x = 100;
