@@ -4,6 +4,7 @@ int main()
 {   
     int number;
     printf("请你输入你要转换的数值：");
+    printf("这是一个测试：");
     scanf("%d",&number);
 
 
